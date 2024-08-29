@@ -1,0 +1,4 @@
+spotdl
+	downloads spotify playlists and songs
+	install: pip install spotdl
+	usage: spotdl [urls]
